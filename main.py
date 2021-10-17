@@ -12,6 +12,6 @@ async def on_message(message):
  
 @bot.command()
 async def example(ctx):
-  //YOUR_CODE
+    Your Code
   
 bot.run(token, bot=False)
